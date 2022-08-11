@@ -57,38 +57,38 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.ff580be8.js-unocss-hash.css": [],
+  "assets/app.6cab182c.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/test/assets/virtual_pwa-register.81602da8.js"
+    "https://kai2128.github.io/test/assets/virtual_pwa-register.b0315610.js"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/test/assets/virtual_pwa-register.81602da8.js"
+    "https://kai2128.github.io/test/assets/virtual_pwa-register.b0315610.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/test/assets/404.14d9bcfc.js"
+    "https://kai2128.github.io/test/assets/404.94cd2943.js"
   ],
   "src/layouts/404.vue": [
-    "/test/assets/404.14d9bcfc.js"
+    "https://kai2128.github.io/test/assets/404.94cd2943.js"
   ],
   "src/layouts/home.vue": [
-    "/test/assets/home.e39e81eb.js"
+    "https://kai2128.github.io/test/assets/home.65fff3f6.js"
   ],
   "src/pages/README.md": [
-    "/test/assets/README.78eb5346.js"
+    "https://kai2128.github.io/test/assets/README.84b904bd.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/test/assets/_...all_.17f5a0e9.js"
+    "https://kai2128.github.io/test/assets/_...all_.656453fb.js"
   ],
   "src/pages/[...all].vue": [
-    "/test/assets/_...all_.17f5a0e9.js"
+    "https://kai2128.github.io/test/assets/_...all_.656453fb.js"
   ],
   "src/pages/about.md": [
-    "/test/assets/about.edab37e7.js"
+    "https://kai2128.github.io/test/assets/about.cc11a714.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/test/assets/_name_.88021fb7.js"
+    "https://kai2128.github.io/test/assets/_name_.cc38ea31.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/test/assets/_name_.88021fb7.js"
+    "https://kai2128.github.io/test/assets/_name_.cc38ea31.js"
   ]
 }
