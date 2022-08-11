@@ -57,38 +57,38 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.27c907e2.js-unocss-hash.css": [],
+  "assets/app.ff580be8.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/test/assets/virtual_pwa-register.93c61366.js"
+    "/test/assets/virtual_pwa-register.81602da8.js"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/test/assets/virtual_pwa-register.93c61366.js"
+    "/test/assets/virtual_pwa-register.81602da8.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/test/assets/404.856d2c59.js"
+    "/test/assets/404.14d9bcfc.js"
   ],
   "src/layouts/404.vue": [
-    "/test/assets/404.856d2c59.js"
+    "/test/assets/404.14d9bcfc.js"
   ],
   "src/layouts/home.vue": [
-    "/test/assets/home.f82669e9.js"
+    "/test/assets/home.e39e81eb.js"
   ],
   "src/pages/README.md": [
-    "/test/assets/README.5c63d883.js"
+    "/test/assets/README.78eb5346.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/test/assets/_...all_.c6866c33.js"
+    "/test/assets/_...all_.17f5a0e9.js"
   ],
   "src/pages/[...all].vue": [
-    "/test/assets/_...all_.c6866c33.js"
+    "/test/assets/_...all_.17f5a0e9.js"
   ],
   "src/pages/about.md": [
-    "/test/assets/about.2d679d81.js"
+    "/test/assets/about.edab37e7.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/test/assets/_name_.4f75d9a6.js"
+    "/test/assets/_name_.88021fb7.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/test/assets/_name_.4f75d9a6.js"
+    "/test/assets/_name_.88021fb7.js"
   ]
 }
