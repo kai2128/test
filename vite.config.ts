@@ -15,7 +15,7 @@ import Unocss from 'unocss/vite'
 import Shiki from 'markdown-it-shiki'
 
 export default defineConfig({
-  base: "/test/",
+  base: 'https://kai2128.github.io/test/',
 
   resolve: {
     alias: {
@@ -94,8 +94,6 @@ export default defineConfig({
     // https://github.com/antfu/vite-plugin-pwa
     VitePWA({
       registerType: 'autoUpdate',
-      base: 'https://kai2128.github.io/test/',
-      scope: '/test/',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
         name: 'Vitesse',
