@@ -94,7 +94,7 @@ export default defineConfig({
     // https://github.com/antfu/vite-plugin-pwa
     VitePWA({
       registerType: 'autoUpdate',
-      base: '/test/',
+      base: 'https://kai2128.github.io/test/',
       scope: '/test/',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
