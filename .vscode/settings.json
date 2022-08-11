@@ -11,5 +11,8 @@
   "files.associations": {
     "*.css": "postcss"
   },
-  "editor.formatOnSave": false
+  "editor.formatOnSave": false,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///f%3A/fyp/project/test/.github/workflows/deploy.yml"
+  }
 }
