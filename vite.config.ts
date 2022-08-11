@@ -95,6 +95,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
+      base: '/test/',
       manifest: {
         name: 'Vitesse',
         id: '/test/',
