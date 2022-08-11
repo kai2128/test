@@ -95,10 +95,10 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       base: '/test/',
+      scope: '/test/',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
         name: 'Vitesse',
-        start_url: '/test/',
         short_name: 'Vitesse',
         theme_color: '#ffffff',
         icons: [
