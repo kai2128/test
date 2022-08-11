@@ -98,8 +98,8 @@ export default defineConfig({
       base: '/test/',
       manifest: {
         name: 'Vitesse',
-        id: '/test/',
-        start_url: '/test/',
+        scope: 'https://kai2128.github.io/test/',
+        start_url: 'https://kai2128.github.io/test/',
         short_name: 'Vitesse',
         theme_color: '#ffffff',
         icons: [
