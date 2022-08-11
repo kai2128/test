@@ -15,7 +15,7 @@ import Unocss from 'unocss/vite'
 import Shiki from 'markdown-it-shiki'
 
 export default defineConfig({
-  base: 'https://kai2128.github.io/test/',
+  base: '/test/',
 
   resolve: {
     alias: {
@@ -97,6 +97,8 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
         name: 'Vitesse',
+        id: '/test/',
+        start_url: '/test/',
         short_name: 'Vitesse',
         theme_color: '#ffffff',
         icons: [
